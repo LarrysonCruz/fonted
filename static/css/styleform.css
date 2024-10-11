@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(212, 159, 43);
+}
+h1 {
+    text-align: center ;
+    border: solid rgb(230, 21, 21) 2px;
+}
+form {
+    text-align: center;
+    border: solid rgb(235, 20, 20) 2px;
+}
+button {
+    background-color: rgb(224, 25, 25);
+    color: white;
+    font-size: 25px;
+    border-radius: 10px;
+    padding: 10px;
+}
+label, a {
+    font-size: 25px;
+}

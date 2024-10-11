@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+div {
+    text-align: center ;
+    border: 2px;
+    width: 250px;
+    position: absolute;
+    left: 42%;
+    top:15%;
+    background-color: antiquewhite;
+}
+
+body {
+    
+    background-image: url("animales1.jpg");
+    background-size: cover;
+}
+button {
+    background-color: blueviolet;
+    color: white;
+    font-size: 20px;
+}

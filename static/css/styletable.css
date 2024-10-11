@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(202, 245, 49);
+}
+table {
+    margin: 0 auto;
+    border: solid black;
+}
+td, th, tr{
+    border: solid black;
+}
+div {
+    text-align: center;
+}

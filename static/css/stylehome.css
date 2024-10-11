@@ -1,0 +1,15 @@
+/*Prueba de comentarios*/
+h1 {
+    text-align: center;
+    font-size: 45px;    
+}
+p {
+    font-size: 30px;
+    text-align: justify;
+}
+ol {
+    font-size: 30px;
+}
+body {
+    background-color: aqua;
+}
